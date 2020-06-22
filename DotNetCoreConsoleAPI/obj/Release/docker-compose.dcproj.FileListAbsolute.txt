@@ -1,0 +1,5 @@
+D:\Repo\git\dotnet\DotNetCoreConsoleAPI\bin\Release\DotNetCoreConsoleAPI.dll
+D:\Repo\git\dotnet\DotNetCoreConsoleAPI\bin\Release\DotNetCoreConsoleAPI.pdb
+D:\Repo\git\dotnet\DotNetCoreConsoleAPI\obj\Release\docker-compose.dcprojAssemblyReference.cache
+D:\Repo\git\dotnet\DotNetCoreConsoleAPI\obj\Release\docker-compose.dcproj.CoreCompileInputs.cache
+D:\Repo\git\dotnet\DotNetCoreConsoleAPI\obj\Release\docker-compose.dcproj.CopyComplete

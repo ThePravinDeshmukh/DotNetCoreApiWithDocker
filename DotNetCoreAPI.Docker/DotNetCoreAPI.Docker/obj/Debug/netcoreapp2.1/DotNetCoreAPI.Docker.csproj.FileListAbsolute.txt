@@ -1,0 +1,8 @@
+D:\Repo\git\dotnet\DotNetCoreAPI.Docker\DotNetCoreAPI.Docker\bin\Debug\netcoreapp2.1\DotNetCoreAPI.Docker.deps.json
+D:\Repo\git\dotnet\DotNetCoreAPI.Docker\DotNetCoreAPI.Docker\bin\Debug\netcoreapp2.1\DotNetCoreAPI.Docker.runtimeconfig.json
+D:\Repo\git\dotnet\DotNetCoreAPI.Docker\DotNetCoreAPI.Docker\bin\Debug\netcoreapp2.1\DotNetCoreAPI.Docker.runtimeconfig.dev.json
+D:\Repo\git\dotnet\DotNetCoreAPI.Docker\DotNetCoreAPI.Docker\bin\Debug\netcoreapp2.1\DotNetCoreAPI.Docker.dll
+D:\Repo\git\dotnet\DotNetCoreAPI.Docker\DotNetCoreAPI.Docker\obj\Debug\netcoreapp2.1\DotNetCoreAPI.Docker.csprojAssemblyReference.cache
+D:\Repo\git\dotnet\DotNetCoreAPI.Docker\DotNetCoreAPI.Docker\obj\Debug\netcoreapp2.1\DotNetCoreAPI.Docker.csproj.CoreCompileInputs.cache
+D:\Repo\git\dotnet\DotNetCoreAPI.Docker\DotNetCoreAPI.Docker\obj\Debug\netcoreapp2.1\DotNetCoreAPI.Docker.AssemblyInfoInputs.cache
+D:\Repo\git\dotnet\DotNetCoreAPI.Docker\DotNetCoreAPI.Docker\obj\Debug\netcoreapp2.1\DotNetCoreAPI.Docker.AssemblyInfo.cs

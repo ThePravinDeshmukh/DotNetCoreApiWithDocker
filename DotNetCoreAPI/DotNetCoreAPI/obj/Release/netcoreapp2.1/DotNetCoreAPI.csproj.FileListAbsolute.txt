@@ -1,0 +1,14 @@
+C:\Users\Pravin\source\repos\DotNetCoreAPI\DotNetCoreAPI\bin\Release\netcoreapp2.1\DotNetCoreAPI.deps.json
+C:\Users\Pravin\source\repos\DotNetCoreAPI\DotNetCoreAPI\bin\Release\netcoreapp2.1\DotNetCoreAPI.runtimeconfig.json
+C:\Users\Pravin\source\repos\DotNetCoreAPI\DotNetCoreAPI\bin\Release\netcoreapp2.1\DotNetCoreAPI.runtimeconfig.dev.json
+C:\Users\Pravin\source\repos\DotNetCoreAPI\DotNetCoreAPI\bin\Release\netcoreapp2.1\DotNetCoreAPI.dll
+C:\Users\Pravin\source\repos\DotNetCoreAPI\DotNetCoreAPI\bin\Release\netcoreapp2.1\DotNetCoreAPI.pdb
+C:\Users\Pravin\source\repos\DotNetCoreAPI\DotNetCoreAPI\obj\Release\netcoreapp2.1\DotNetCoreAPI.csprojAssemblyReference.cache
+C:\Users\Pravin\source\repos\DotNetCoreAPI\DotNetCoreAPI\obj\Release\netcoreapp2.1\DotNetCoreAPI.csproj.CoreCompileInputs.cache
+C:\Users\Pravin\source\repos\DotNetCoreAPI\DotNetCoreAPI\obj\Release\netcoreapp2.1\DotNetCoreAPI.RazorAssemblyInfo.cache
+C:\Users\Pravin\source\repos\DotNetCoreAPI\DotNetCoreAPI\obj\Release\netcoreapp2.1\DotNetCoreAPI.RazorAssemblyInfo.cs
+C:\Users\Pravin\source\repos\DotNetCoreAPI\DotNetCoreAPI\obj\Release\netcoreapp2.1\DotNetCoreAPI.AssemblyInfoInputs.cache
+C:\Users\Pravin\source\repos\DotNetCoreAPI\DotNetCoreAPI\obj\Release\netcoreapp2.1\DotNetCoreAPI.AssemblyInfo.cs
+C:\Users\Pravin\source\repos\DotNetCoreAPI\DotNetCoreAPI\obj\Release\netcoreapp2.1\DotNetCoreAPI.RazorTargetAssemblyInfo.cache
+C:\Users\Pravin\source\repos\DotNetCoreAPI\DotNetCoreAPI\obj\Release\netcoreapp2.1\DotNetCoreAPI.dll
+C:\Users\Pravin\source\repos\DotNetCoreAPI\DotNetCoreAPI\obj\Release\netcoreapp2.1\DotNetCoreAPI.pdb

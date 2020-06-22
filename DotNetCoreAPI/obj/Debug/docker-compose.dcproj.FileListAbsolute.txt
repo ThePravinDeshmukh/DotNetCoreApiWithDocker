@@ -1,0 +1,5 @@
+C:\Users\Pravin\source\repos\DotNetCoreAPI\bin\Debug\DotNetCoreConsoleAPI.dll
+C:\Users\Pravin\source\repos\DotNetCoreAPI\bin\Debug\DotNetCoreConsoleAPI.pdb
+C:\Users\Pravin\source\repos\DotNetCoreAPI\obj\Debug\docker-compose.dcprojAssemblyReference.cache
+C:\Users\Pravin\source\repos\DotNetCoreAPI\obj\Debug\docker-compose.dcproj.CoreCompileInputs.cache
+C:\Users\Pravin\source\repos\DotNetCoreAPI\obj\Debug\docker-compose.dcproj.CopyComplete

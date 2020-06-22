@@ -1,0 +1,7 @@
+services:
+  dotnetcoreconsoleapi:
+    build:
+      context: D:\Repo\git\dotnet\DotNetCoreConsoleAPI
+      dockerfile: Dockerfile
+    image: dotnetcoreconsoleapi
+version: '3.4'

@@ -1,0 +1,8 @@
+version: '3.4'
+
+services:
+  dotnetcoreconsoleapi:
+    image: ${DOCKER_REGISTRY-}dotnetcoreconsoleapi
+    build:
+      context: .
+      dockerfile: Dockerfile

@@ -1,0 +1,10 @@
+D:\Repo\git\dotnet\DotNetCoreConsoleAPI\bin\Release\netcoreapp2.1\win-x64\DotNetCoreConsoleAPI.deps.json
+D:\Repo\git\dotnet\DotNetCoreConsoleAPI\bin\Release\netcoreapp2.1\win-x64\DotNetCoreConsoleAPI.runtimeconfig.json
+D:\Repo\git\dotnet\DotNetCoreConsoleAPI\bin\Release\netcoreapp2.1\win-x64\DotNetCoreConsoleAPI.runtimeconfig.dev.json
+D:\Repo\git\dotnet\DotNetCoreConsoleAPI\bin\Release\netcoreapp2.1\win-x64\DotNetCoreConsoleAPI.dll
+D:\Repo\git\dotnet\DotNetCoreConsoleAPI\bin\Release\netcoreapp2.1\win-x64\DotNetCoreConsoleAPI.pdb
+D:\Repo\git\dotnet\DotNetCoreConsoleAPI\obj\Release\netcoreapp2.1\win-x64\DotNetCoreConsoleAPI.csproj.CoreCompileInputs.cache
+D:\Repo\git\dotnet\DotNetCoreConsoleAPI\obj\Release\netcoreapp2.1\win-x64\DotNetCoreConsoleAPI.AssemblyInfoInputs.cache
+D:\Repo\git\dotnet\DotNetCoreConsoleAPI\obj\Release\netcoreapp2.1\win-x64\DotNetCoreConsoleAPI.AssemblyInfo.cs
+D:\Repo\git\dotnet\DotNetCoreConsoleAPI\obj\Release\netcoreapp2.1\win-x64\DotNetCoreConsoleAPI.dll
+D:\Repo\git\dotnet\DotNetCoreConsoleAPI\obj\Release\netcoreapp2.1\win-x64\DotNetCoreConsoleAPI.pdb
